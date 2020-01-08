@@ -1,0 +1,9 @@
+C:\Users\nickn\source\repos\CheckWindowsVersion\CheckWindowsVersion\bin\Debug\CheckWindowsVersion.exe.config
+C:\Users\nickn\source\repos\CheckWindowsVersion\CheckWindowsVersion\bin\Debug\CheckWindowsVersion.exe
+C:\Users\nickn\source\repos\CheckWindowsVersion\CheckWindowsVersion\bin\Debug\CheckWindowsVersion.pdb
+C:\Users\nickn\source\repos\CheckWindowsVersion\CheckWindowsVersion\obj\Debug\CheckWindowsVersion.csprojAssemblyReference.cache
+C:\Users\nickn\source\repos\CheckWindowsVersion\CheckWindowsVersion\obj\Debug\CheckWindowsVersion.Form1.resources
+C:\Users\nickn\source\repos\CheckWindowsVersion\CheckWindowsVersion\obj\Debug\CheckWindowsVersion.Properties.Resources.resources
+C:\Users\nickn\source\repos\CheckWindowsVersion\CheckWindowsVersion\obj\Debug\CheckWindowsVersion.csproj.GenerateResource.cache
+C:\Users\nickn\source\repos\CheckWindowsVersion\CheckWindowsVersion\obj\Debug\CheckWindowsVersion.exe
+C:\Users\nickn\source\repos\CheckWindowsVersion\CheckWindowsVersion\obj\Debug\CheckWindowsVersion.pdb
